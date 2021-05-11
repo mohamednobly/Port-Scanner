@@ -1,0 +1,12 @@
+termcolor
+argparse
+regex
+ipaddress
+nmap
+yagmail
+python-iptables
+netifaces
+pytest-warnings
+art
+scapy
+

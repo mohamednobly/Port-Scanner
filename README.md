@@ -13,10 +13,17 @@ cd Port-Scanner && pip3 install -r requirements.txt
 
 ```
 # Usage 
+```bash
 python3 Port-Scanner.py --help 
 
+ ____   _                    _         ____                _     ____                                         
+/ ___| (_) _ __ ___   _ __  | |  ___  |  _ \   ___   _ __ | |_  / ___|   ___   __ _  _ __   _ __    ___  _ __ 
+\___ \ | || '_ ` _ \ | '_ \ | | / _ \ | |_) | / _ \ | '__|| __| \___ \  / __| / _` || '_ \ | '_ \  / _ \| '__|
+ ___) || || | | | | || |_) || ||  __/ |  __/ | (_) || |   | |_   ___) || (__ | (_| || | | || | | ||  __/| |   
+|____/ |_||_| |_| |_|| .__/ |_| \___| |_|     \___/ |_|    \__| |____/  \___| \__,_||_| |_||_| |_| \___||_|   
+                     |_|                                                                                      
 
-
+                                                by n0bly
            
 [+] Started at DATE
 
@@ -56,6 +63,4 @@ optional arguments:
         ./file.py --target 'Target' --udp -----> UDP Port Scan and NMAP Service Scan 
 
         ./file.py --target 'Target' --udp --tcp -----> TCP and UDP Port Scan and NMAP Service Scan 
-
-
-                                                                                        
+```                                                                                 

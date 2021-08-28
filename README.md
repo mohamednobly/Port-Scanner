@@ -5,9 +5,14 @@
 - Supports Nmap Service Enumeration 
 # Install 
 git clone https://github.com/mohamednobly/Port-Scanner.git
+
+
 cd Port-Scanner && pip3 install -r requirements.txt
 # Usage 
 python3 Port-Scanner.py --help 
+
+
+
 ____   _                    _         ____                _     ____                                         
 / ___| (_) _ __ ___   _ __  | |  ___  |  _ \   ___   _ __ | |_  / ___|   ___   __ _  _ __   _ __    ___  _ __ 
 \___ \ | || '_ ` _ \ | '_ \ | | / _ \ | |_) | / _ \ | '__|| __| \___ \  / __| / _` || '_ \ | '_ \  / _ \| '__|

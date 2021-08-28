@@ -14,8 +14,6 @@ python3 Port-Scanner.py --help
 
 
            
-
-                                                by n0bly
 [+] Started at DATE
 
 

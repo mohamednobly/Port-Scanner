@@ -368,6 +368,7 @@ def main_fucntion():
 
 banner = text2art("Simple Port Scanner")
 print(banner)
+print("                                         by n0bly")
 try:
 	main_fucntion()
 except KeyboardInterrupt:

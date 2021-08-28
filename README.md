@@ -4,10 +4,14 @@
 - Supports UDP and TCP 
 - Supports Nmap Service Enumeration 
 # Install 
+
+```bash
 git clone https://github.com/mohamednobly/Port-Scanner.git
-
-
+```
+```bash
 cd Port-Scanner && pip3 install -r requirements.txt
+
+```
 # Usage 
 python3 Port-Scanner.py --help 
 
